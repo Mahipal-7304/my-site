@@ -1,0 +1,94 @@
+ *{ 
+    margin: 0;
+    padding: 0;
+}
+.W{
+  background-color: rgb(89, 82, 109);
+  height: 700px;
+}
+.content {
+    display: flex;
+  align-content: center;
+  justify-content: center;
+}
+.S{
+  display: flex;
+}
+.A img{
+  height: 350px;
+  justify-content: right;
+  padding-left: 30px;
+  border-radius: 20px;
+}
+.D{
+  border: 3px;
+  font-size: 33px;
+  height: 330px;
+  width: 70%;
+  padding: 10px;
+}
+.F{
+  background-color: blueviolet;
+  height: 4770px;
+  width: 100%;
+}
+#Y{
+  display: inline;
+  background-color: rgb(33, 4, 102);
+  color: #420202;
+  text-align: center;
+  font-size: 50px;
+}
+#J{
+  display: inline;
+  background-color: rgb(33, 4, 102);
+  color: #420202;
+  text-align: center;
+}
+#J a{
+  display: flex;
+  justify-content: center;
+  font-size: 60px;
+  text-decoration: none;
+}
+.KL{
+  background-color: rgb(99, 84, 3);
+  height: 200px;
+  width: 100%;
+}
+.img img{
+  display: flex;
+  height: 450px;
+  width: 450px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+.GH{
+  display: flex;
+  padding-bottom: 10px;
+}
+.GH h1{
+  display: flex;
+  padding-left: 6px;
+  font-size: 60px;
+}
+.GH p{
+  padding-left: 5px;
+  font-size: 40px;
+}
+.B{
+    display: inline;
+    background-color: #0c0c0c;
+    color: aqua;
+    border-radius: 40px;
+}
+.text-shadows {
+  font-family: bungee, sans-serif;
+  font-weight: 400;
+  text-transform: uppercase;
+  font-size: calc(3rem + 5vw);
+  text-align: center;
+  margin: 0;
+  animation: shadows 1.2s ease-in infinite;
+  letter-spacing: 0.4rem;
+}
